@@ -1,2 +1,2 @@
 # Mad-Minds-Battle-Realm
-Git repository for the Mad MInds: Battle realm modpack
+Git repository for the Mad Minds: Battle realm modpack
